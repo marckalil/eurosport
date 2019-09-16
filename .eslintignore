@@ -1,0 +1,11 @@
+./flow-typed/**
+app/types/**
+./node_modules/*
+public/*
+scripts/*
+__tests__/*
+*.md
+*/**/*.js
+*/**/*.json
+*/**/*.stories.*
+*/**/*.config.*
