@@ -2,7 +2,7 @@
 
 ## Install
 
-Run `yarn` in a terminal
+`yarn; cd ios; pod install; cd ..`
 
 ## Run the project
 
