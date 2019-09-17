@@ -161,7 +161,6 @@
 				C959FE0B0208A5B0730CFE0A /* Pods-eurosportTests.debug.xcconfig */,
 				486BA38EB0B0443F066D606A /* Pods-eurosportTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -308,6 +307,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -574,6 +574,7 @@
 			name = LaunchScreen.xib;
 			path = eurosport;
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 /* End PBXVariantGroup section */
 
