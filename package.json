@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
+    "eurosport": "yarn; cd ios; pod install; cd ..",
     "android": "node node_modules/react-native/local-cli/cli.js run-android",
     "ios": "node node_modules/react-native/local-cli/cli.js run-ios --simulator=\"iPhone 8\"",
     "start": "react-native start",

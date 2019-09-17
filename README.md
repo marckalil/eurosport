@@ -2,7 +2,7 @@
 
 ## Install
 
-`yarn; cd ios; pod install; cd ..`
+`yarn eurosport`
 
 ## Run the project
 
